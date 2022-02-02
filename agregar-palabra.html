@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="icon" href="/img/ahorcado.png">
+    <title>Ahorcado</title>
+    <link href="/fontawesome-free-5.15.4-web/css/all.css" rel="stylesheet"> <!--load all styles -->
+    <link href="https://fonts.googleapis.com/css2?family=M+PLUS+1+Code:wght@100;400;700&family=Montserrat:wght@100;400;800&family=Poppins:wght@100;400;800&family=Staatliches&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/sweetAlert/sweetalert2.min.css">
+  </head>
+
+  <body>
+    <main class="contenedor">
+        <section class="formulario" >
+            <div class="formulario_input" text-align:center; margin: 80px 0px;>
+                <textarea class="text-input" type="text" id="input-nueva-palabra" placeholder="Ingresa una nueva palabra" autofocus></textarea>
+            </div>
+            <div class="formulario_texto">
+                <label for="input-texto">&#33; Solo letras mayusculas, sin acento, no más de 12 caracteres</label>
+            </div>
+            <div class="formulario_botones">
+                <a class="btn btn-guardar-palabra" id="guardar-palabra">Guardar y empezar</a>
+                <a href="index.html" class="btn btn-cancelar" id="cancelar">Cancelar</a> 
+            </div>
+        </section>
+    </main>
+
+    <footer>
+      <p class="footer__texto">By Julian Pachon - Todos los derechos Reservados 2022.</p>
+      <div class="botones-footer">
+        <a href="#" class="btn btn-linkedin"><i class="fab fa-linkedin"></i> LinkedIn</a>
+        <a href="#" class="btn btn-github"><i class="fab fa-github"></i> Github</a>
+      </div>
+    </footer>
+
+    <script type="text/javascript" src="/js/palabras-secretas.js"></script>
+    <script src="/sweetAlert/sweetalert2.all.min.js"></script>
+    <script src="/sweetAlert/sweetalert2.min.js"></script>
+  </body>
+</html>
