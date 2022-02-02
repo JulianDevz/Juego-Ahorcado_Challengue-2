@@ -5,7 +5,7 @@
 _Este repositorio fue creado como solución al Challengue #2 propuesto por el curso de Principios de Programacion de Alura Latam_
 \#ChallengeOneLogicaLatam
 
-[Puedes probarlo aqui!](https://juliantm.github.io/Juego-Ahorcado_Challengue-2/)
+[Puedes probarlo aqui!]()
 
 ## Funciones
 * Antes de iniciar el juego puedes agregar una nueva palabra
