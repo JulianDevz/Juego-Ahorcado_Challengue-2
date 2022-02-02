@@ -1,4 +1,4 @@
-var palabrasSecretas = ["ORACLE", "ALURA", "FRONTEND", "BACKEND", "GITHUB", "WEB", "TECNOLOGIA", "DESARROLLO", "INTERNET", "SOFTWARE", "JAVASCRIPT"];
+var palabrasSecretas = ["ARBOL","CONEJO","CAMION","DIA","EDIFICIO","TELEFONO","MUSCULO","EJERCICIO","INGLES","ARTE","CALLE","LETRA","JUEGO","PANTALLA","SOFA"];
 
 function sortearPalabra(palabras){
     var numeroRandom = Math.floor(Math.random()*palabras.length);
