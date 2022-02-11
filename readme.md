@@ -21,7 +21,7 @@ _Este repositorio fue creado como solución al Challengue #2 propuesto por el cu
 * Css
 * JavaScript
 
-## Gracias!
+## Gracias!!
 
 * Agradesco al programa de Oracle ONE y Alura Latam por permitirme ser parte de este proyecto, realmente estoy muy contento con las nuevas cosas que estoy aprendiendo y con los retos propuestos
 
