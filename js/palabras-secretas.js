@@ -1,4 +1,4 @@
-var palabrasSecretas = ["ORACLE", "ALURA", "FRONTEND", "BACKEND", "GITHUB", "WEB", "TECNOLOGIA", "DESARROLLO", "INTERNET", "SOFTWARE", "JAVASCRIPT"];
+var palabrasSecretas = ["ARBOL","CONEJO","CAMION","DIA","EDIFICIO","TELEFONO","MUSCULO","EJERCICIO","INGLES","ARTE","CALLE","LETRA","JUEGO","PANTALLA","SOFA"];
 
 function sortearPalabra(palabras){
     var numeroRandom = Math.floor(Math.random()*palabras.length);
@@ -13,7 +13,7 @@ function redireccionar(){
 var numeros="0123456789";
 function tiene_numeros(texto){
     for(i=0; i<texto.length; i++){
-        if (numeros.indexOf(texto.charAt(i),0)!=-1){
+        if (numeros.indexOf(texto.charAt(i),0) != -1){
             return true;
         }
     }
