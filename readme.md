@@ -5,12 +5,12 @@
 _Este repositorio fue creado como solución al Challengue #2 propuesto por el curso de Principios de Programacion de Alura Latam_
 \#ChallengeOneLogicaLatam
 
-[Puedes probarlo aqui!]()
+[Puedes probarlo aqui!](https://juego-ahorcado-alura-challenge.netlify.app)
 
 ## Funciones
 * Antes de iniciar el juego puedes agregar una nueva palabra
 * Cuando agregues la nueva palabra enseguida inicias el juego
-* Puedes jugar cuantas veces quieras
+* Puedes jugar cuantas veces quieras.
 * Por cada juego puedes equivocarte como maximo 9 veces para seguir con vida
 * Si completas la palabra antes del ahorcado has ganado!
 * Si te equivocas 9 veces sin completar la palabra, habras perdido.
