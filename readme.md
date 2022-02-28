@@ -1,6 +1,10 @@
 # Juego del Ahorcado
 
+<div align="center">
+  
 ![video-to-gif-converter](https://user-images.githubusercontent.com/42880872/152217728-7ac7fa47-2d91-485d-a082-d385b91a71ea.gif)
+  
+</div>
 
 _Este repositorio fue creado como solución al Challengue #2 propuesto por el curso de Principios de Programacion de Alura Latam_
 \#ChallengeOneLogicaLatam
@@ -26,4 +30,10 @@ _Este repositorio fue creado como solución al Challengue #2 propuesto por el cu
 * Agradesco al programa de Oracle ONE y Alura Latam por permitirme ser parte de este proyecto, realmente estoy muy contento con las nuevas cosas que estoy aprendiendo y con los retos propuestos
 
 ---
-⌨️ con ❤️ por [JulianTM](https://github.com/JulianTM) 😊
+
+<div align="center">
+  
+  ![giphy](https://user-images.githubusercontent.com/42880872/156003638-cb5322ae-3406-48c6-ba64-c8def9ed4876.gif)
+  
+  ⌨️ con ❤️ por [JulianTM](https://github.com/JulianTM) 😊
+</div>
